@@ -1,2 +1,3 @@
 # matrixgui
-GUI for matrix/vector computation
+
+matrixgui is a free online GUI tool for matrix/vector computation.
